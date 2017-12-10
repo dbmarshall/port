@@ -74,6 +74,12 @@ footer .copyright p {
 .social .page-header {
   border-bottom: 2px solid #eee;
 }
+.social img {
+  border: 1px solid #fff;
+}
+.social img:hover {
+  border: 1px solid #ccc;
+}
 img.profileimage {
   width: 35%;
   padding: 10px 32px 10px 0;
